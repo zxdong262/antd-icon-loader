@@ -1,0 +1,27 @@
+{
+  "name": "antd-icon-loader",
+  "version": "1.0.0",
+  "description": "a loader to help using custom antd icons without extra effort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxdong262/antd-icon-loader.git"
+  },
+  "keywords": [
+    "antd",
+    "icon",
+    "loader"
+  ],
+  "author": "ZHAO Xudong <zxdong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxdong262/antd-icon-loader/issues"
+  },
+  "homepage": "https://github.com/zxdong262/antd-icon-loader#readme",
+  "dependencies": {
+    "loader-utils": "1.1.0"
+  }
+}
